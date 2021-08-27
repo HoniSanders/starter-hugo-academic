@@ -29,6 +29,7 @@ experience:
     date_start: '2016-01'
     date_end: ''
     description: |2-
+    
         * Probabilistic inference model of animal context identification
         * Calcium Imaging
         * Data analysis of rodent hippocampal neural recordings
@@ -41,6 +42,7 @@ experience:
     date_start: '2010-08-01'
     date_end: '2016-01'
     description: |2-
+    
         * Biologically realistic neural network simulations
         * Theory of navigation computation - place cells and grid cells
         * Data analysis of rodent hippocampal neural recordings
