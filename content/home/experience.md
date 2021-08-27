@@ -37,7 +37,7 @@ experience:
   - title: Ph.D. Student
     company: Brandeis University - Lab of John Lisman
     company_url: ''
-    company_logo: Brandeis_logo_stacked_seal_blue_digital_cropped
+    company_logo: Brandeis_seal_blue_U
     location: California
     date_start: '2010-08-01'
     date_end: '2016-01-01'
