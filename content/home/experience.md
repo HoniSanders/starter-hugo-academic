@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Associate
     company: MIT - Lab of Matt Wilson; Harvard - Lab of Sam Gershman
     company_url: ''
-    company_logo: org-mit
+    company_logo: MIT_logo
     date_start: '2016-01'
     date_end: ''
     description: |2-
@@ -37,7 +37,7 @@ experience:
   - title: Ph.D. Student
     company: Brandeis University - Lab of John Lisman
     company_url: ''
-    company_logo: org-b
+    company_logo: Brandeis_logo_stacked_seal_blue_digital_cropped
     location: California
     date_start: '2010-08-01'
     date_end: '2016-01'
