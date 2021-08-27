@@ -26,7 +26,7 @@ experience:
     company: MIT - Lab of Matt Wilson; Harvard - Lab of Sam Gershman
     company_url: ''
     company_logo: MIT_logo
-    date_start: '2016-01'
+    date_start: '2016-01-01'
     date_end: ''
     description: |2-
     
@@ -40,7 +40,7 @@ experience:
     company_logo: Brandeis_logo_stacked_seal_blue_digital_cropped
     location: California
     date_start: '2010-08-01'
-    date_end: '2016-01'
+    date_end: '2016-01-01'
     description: |2-
     
         * Biologically realistic neural network simulations
